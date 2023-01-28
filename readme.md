@@ -1,1 +1,1 @@
-https://Yiriy2102.github.io/restaraunt/cv
+https://Yiriy2102.github.io/restaraunt/index.html
